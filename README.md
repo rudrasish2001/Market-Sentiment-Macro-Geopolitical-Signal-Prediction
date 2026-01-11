@@ -18,13 +18,7 @@ Built a multi-stage pipeline covering:
 2. Transformer-based sentiment modeling (FinBERT)
 3. Market return alignment (IVV / S&P 500)
 4. Macro–geopolitical signal modeling (GDELT)
-
-5. Implemented three sentiment models:
-   
-a. VADER
-b. TextBlob
-c. FinBERT (ProsusAI)
-
+5. Implemented three sentiment models: a. VADER, b. TextBlob, c. FinBERT (ProsusAI)
 7. Developed lagged and regime-filtered signals to reduce noise
 8. Applied time-series cross-validation to avoid look-ahead bias
 9. Trained XGBoost classifier on macro–geopolitical indicators
