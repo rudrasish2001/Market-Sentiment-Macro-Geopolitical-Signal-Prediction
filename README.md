@@ -1,5 +1,5 @@
 # Market Sentiment Macro Geopolitical Signal Prediction
-Market Sentiment & Macro Signal Modeling: Built an end-to-end pipeline combining FinBERT news sentiment and GDELT geopolitical indicators to predict short-horizon equity market direction using time-series ML. Applied regime filtering, lagged features, and XGBoost to identify high-confidence market stress signals.
+Built an end-to-end quantitative pipeline combining FinBERT-based news sentiment and GDELT macro geopolitical indicators to study short-horizon equity market direction using time-series machine learning.
 
 OBJECTIVE: This project builds an end-to-end quantitative research pipeline to examine whether financial news sentiment and macro–geopolitical signals contain predictive information about short-term equity market movements.
 
@@ -172,7 +172,7 @@ The achieved accuracy is modest but economically meaningful, reflecting the inhe
 
 <img width="1105" height="624" alt="image" src="https://github.com/user-attachments/assets/a107ce12-b018-4650-8fc6-ac53aabc2a81" />
 
-GRAPH: This graph summarizes the project by combining S&P 500 price dynamics with volatility-based stress regimes, momentum deterioration, and predicted dip signals. Highlighted points indicate periods where elevated risk conditions align with short-term market drawdowns.
+GRAPH: This graph summarizes the project by combining S&P 500 price dynamics with volatility-based stress regimes, momentum deterioration, and predicted dip signals. Highlighted points indicate periods where elevated volatility, deteriorating momentum, and macro stress align with short-term market drawdowns.
 
 
 (⚠️ DISCLAIMER: This project is for academic and research purposes only and does not constitute financial advice.)
