@@ -42,7 +42,7 @@ However, news and macro data are noisy, and naive models often fail due to look-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-GOAL OF THIS PROJECT: To test whether lagged sentiment and macro geopolitical indicators can help predict next-day market direction, especially during high-volatility and stress periods.
+GOAL OF THIS PROJECT: To test whether lagged sentiment and macro–geopolitical indicators can help explain and identify next-day market direction, particularly during high-volatility and stress periods.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
